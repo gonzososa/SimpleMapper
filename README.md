@@ -63,7 +63,8 @@ public class Target {
 }                                                                       
 ```
 > [!NOTE]
-> Highlights information that users should take into account, even when skimming.
+> At this point only one hierarchy level is supported. It'll be fixed in 
+next commits.
 
 Requirements
 ```
